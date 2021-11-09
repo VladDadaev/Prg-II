@@ -1,0 +1,7 @@
+D:\prg 2\Gamernd\Gamernd\obj\Debug\Gamernd.csprojAssemblyReference.cache
+D:\prg 2\Gamernd\Gamernd\obj\Debug\Gamernd.csproj.CoreCompileInputs.cache
+D:\prg 2\Gamernd\Gamernd\bin\Debug\Gamernd.exe.config
+D:\prg 2\Gamernd\Gamernd\bin\Debug\Gamernd.exe
+D:\prg 2\Gamernd\Gamernd\bin\Debug\Gamernd.pdb
+D:\prg 2\Gamernd\Gamernd\obj\Debug\Gamernd.exe
+D:\prg 2\Gamernd\Gamernd\obj\Debug\Gamernd.pdb
